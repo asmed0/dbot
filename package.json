@@ -1,0 +1,25 @@
+{
+  "name": "dbot",
+  "version": "1.0.0",
+  "description": "a discord bot devoted to the fnf gott hang server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/foundbypass/dbot.git"
+  },
+  "keywords": [
+    "discordbot",
+    "blackjack",
+    "giveaway",
+    "scissor"
+  ],
+  "author": "ahmed soliman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/foundbypass/dbot/issues"
+  },
+  "homepage": "https://github.com/foundbypass/dbot#readme"
+}
