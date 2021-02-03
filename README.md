@@ -11,4 +11,4 @@ Thought out features:
 This is not a gambling bot intended for public use, rather it was only made for us to have fun together!
 
 To be noted:
-We used some code from the [Guidebot] ttps://github.com/AnIdiotsGuide/guidebot/ repo
+Boilerplate code from the [Guidebot] https://github.com/AnIdiotsGuide/guidebot/ repo, of course their repo has been stared! Our intended commands have been added on top, with some of their commands that are out of our scope of need have been removed!

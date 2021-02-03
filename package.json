@@ -21,5 +21,15 @@
   "bugs": {
     "url": "https://github.com/foundbypass/dbot/issues"
   },
-  "homepage": "https://github.com/foundbypass/dbot#readme"
+  "homepage": "https://github.com/foundbypass/dbot#readme",
+  "dependencies": {
+    "better-sqlite3": "^5.4.1",
+    "chalk": "^2.4.1",
+    "discord.js": "^12.1.1",
+    "enmap": "^5.0.1",
+    "klaw": "^2.1.1",
+    "moment": "^2.22.2",
+    "moment-duration-format": "^2.2.2",
+    "readline-sync": "^1.4.9"
+  }
 }
